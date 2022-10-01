@@ -5,7 +5,7 @@ Before running the code, please install the libraies using pip3 or other install
 
 Running the program:
 
-	$ ./Untitled.ipynb
+	$ ./Untitled.py
 
  The results are created in the file:
 
