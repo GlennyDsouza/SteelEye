@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+
+<lst name="responseHeader">
+  <int name="status">0</int>
+  <int name="QTime">0</int>
+  <lst name="params">
+    <str name="q">*</str>
+    <str name="indent">true</str>
+    <str name="start">0</str>
+    <str name="fq">publication_date:[2020-01-08T00:00:00Z TO 2020-01-08T23:59:59Z]</str>
+    <str name="rows">100</str>
+    <str name="wt">xml</str>
+  </lst>
+</lst>
+<result name="response" numFound="3" start="0">
+  <doc>
+    <str name="checksum">67689f0fd11246facf4c475b5bf675ae</str>
+    <str name="download_link">http://firds.esma.europa.eu/firds/DLTINS_20200108_01of03.zip</str>
+    <date name="publication_date">2020-01-08T00:00:00Z</date>
+    <str name="id">30234</str>
+    <str name="published_instrument_file_id">30234</str>
+    <str name="_root_">30234</str>
+    <str name="file_name">DLTINS_20200108_01of03.zip</str>
+    <str name="file_type">DLTINS</str>
+    <long name="_version_">1745457352575811592</long>
+    <date name="timestamp">2022-10-01T04:17:27.534Z</date></doc>
+  <doc>
+    <str name="checksum">67602b6faf7b1c2eec000e5426dc68dd</str>
+    <str name="download_link">http://firds.esma.europa.eu/firds/DLTINS_20200108_02of03.zip</str>
+    <date name="publication_date">2020-01-08T00:00:00Z</date>
+    <str name="id">30235</str>
+    <str name="published_instrument_file_id">30235</str>
+    <str name="_root_">30235</str>
+    <str name="file_name">DLTINS_20200108_02of03.zip</str>
+    <str name="file_type">DLTINS</str>
+    <long name="_version_">1745457352575811593</long>
+    <date name="timestamp">2022-10-01T04:17:27.534Z</date></doc>
+  <doc>
+    <str name="checksum">fcd424591526665a64e3251ff7031bd2</str>
+    <str name="download_link">http://firds.esma.europa.eu/firds/DLTINS_20200108_03of03.zip</str>
+    <date name="publication_date">2020-01-08T00:00:00Z</date>
+    <str name="id">30236</str>
+    <str name="published_instrument_file_id">30236</str>
+    <str name="_root_">30236</str>
+    <str name="file_name">DLTINS_20200108_03of03.zip</str>
+    <str name="file_type">DLTINS</str>
+    <long name="_version_">1745457352575811594</long>
+    <date name="timestamp">2022-10-01T04:17:27.534Z</date></doc>
+</result>
+</response>
